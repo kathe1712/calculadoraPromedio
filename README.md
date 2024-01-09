@@ -1,1 +1,2 @@
-# calculadoraPromedio
+# Calculadora Promedio
+## Diana Almeida  
